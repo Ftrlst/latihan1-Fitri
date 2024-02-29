@@ -1,3 +1,4 @@
 Hai, hari ini adalah hari pertama saya latihan GitHub.
 Saya sudah membuat akun di GitHub.
 Saya sudah membuat repo, dan commit.
+Saya mencoba merubah file ini.
